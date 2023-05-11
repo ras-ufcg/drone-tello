@@ -23,6 +23,7 @@ OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a n
 - Controle Remoto ao Tello
 	- [Tello Programming](https://youtu.be/uaXbfDFAp-0)
 	- [Tello Code Example](https://bitbucket.org/RobotAndCode/tello-ai/src/master/)
+	- [Servidor UDP para conexão ao Tello](https://pythontic.com/modules/socket/udp-client-server-example)
 
 - IA com Tello
 	- [AI Drone with Tello Playlist](https://youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI)

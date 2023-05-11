@@ -18,12 +18,19 @@ OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a n
 
 
 ##  🟩  Fase Atual - #PESQUISA
+- Conexão ao Drone
+	- [SDK](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf)
+	
+- Controle Remoto ao Tello
+	- [Tello Programming](https://youtu.be/uaXbfDFAp-0)
+	- [Tello Code Example](https://bitbucket.org/RobotAndCode/tello-ai/src/master/)
+
+- IA com Tello
+	- [AI Drone with Tello Playlist](https://youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI)
+	 
 - Sistema Operacional
 	- [ROS](https://docs.ros.org/)
 	
-- Conexão ao Drone
-	- [SDK](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf)
-
 - Geometria Hexagonal da Cúpula:
 	- [Hexágonos na natureza](https://www.zmescience.com/feature-post/natural-sciences/mathematics/hexagon-shape-nature-physics-13092021/)
 	- [Hexágonos - Princípios Básicos](https://www.mashupmath.com/blog/hexagons-explained-hexagons-in-real-life)
@@ -68,7 +75,6 @@ OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a n
 	- [Setup Tello Packages](https://youtu.be/-Mb_FKhRn00)  
 	- [Drone Programming with Python](https://youtu.be/LmEcyQnfpDA)  
 	- [Telo && OpenCV](https://youtu.be/vDOkUHNdmKs )  
-	- [AI Drone with Tello Playlist](https://youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI)
 
 - Future Ideas
 	- [Arduino - NFC](https://arduinogetstarted.com/tutorials/arduino-rfid-nfc)

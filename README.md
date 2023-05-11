@@ -1,4 +1,5 @@
 
+
 # Drone-Tello
 
 ### ⛾ Projeto de pesquisa na área de drones
@@ -10,23 +11,31 @@
 
 OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a necessiadade e a realidade da modelagem realizada. 
 
-### 📓 Materiais
+
+## 📓 Materiais
 - Drone Tello da marca DJI
 
-###  🟩  Atualmente - [ FASE DE PESQUISA ]
+
+
+##  🟩  Fase Atual - #PESQUISA
+- Sistema Operacional
+	- [ROS](https://docs.ros.org/)
+	
+- Conexão ao Drone
+	- [SDK](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf)
+
 - Geometria Hexagonal da Cúpula:
 	- [Hexágonos na natureza](https://www.zmescience.com/feature-post/natural-sciences/mathematics/hexagon-shape-nature-physics-13092021/)
 	- [Hexágonos - Princípios Básicos](https://www.mashupmath.com/blog/hexagons-explained-hexagons-in-real-life)
 	- [Buckyball Shape](https://pt.wikipedia.org/wiki/Buckminsterfulereno)
+	
 - Giroscópio
 	- [Giroscópio - Princípios Básicos](https://pt.m.wikipedia.org/wiki/Girosc%C3%B3pio)
 	- [Giroscópio - Arduino](https://www.circuitbasics.com/how-to-setup-gyroscopes-on-the-arduino/)
 	- [Giroscópio - ROS](https://youtu.be/WxuLJZSJ7sk)
-- Sistema Operacional
-	- [ROS](https://docs.ros.org/)
+	
 
-
-### 🔗 Links
+## 🔗 Links e Documentação
 - Api Tello
 	- [Tello Api](https://tellopilots.com/wiki/development/)
 	- [Tello Api](https://djitellopy.readthedocs.io/en/latest/)  
@@ -42,7 +51,8 @@ OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a n
 - SDK
 	- [SDK vs API](https://www.ibm.com/cloud/blog/sdk-vs-api)  
 	- [SDK version](https://tellopilots.com/threads/what-sdk-version-does-the-normal-tello-support.6109/)  
-	- [Tello && SDK](https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf)
+	- [Tello && SDK old pdf](https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf)
+	- [Tello && SDK new pdf version](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf)
 
 - Site/Fórum
 	- [Tello Pilots](https://tellopilots.com/ "https://tellopilots.com/")

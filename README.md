@@ -16,7 +16,6 @@ OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a n
 - Drone Tello da marca DJI
 
 
-
 ##  🟩  Fase Atual - #PESQUISA
 - Conexão ao Drone
 	- [SDK](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf)

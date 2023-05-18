@@ -1,0 +1,27 @@
+mai 18 16:09
+>> Simulacao Gazebo
+https://youtube.com/playlist?list=PLNw2RD-1J5YYvFGiMafRD_axHrBUGvuIg
+https://www.youtube.com/watch?v=-ttibzzc0JQ
+https://www.youtube.com/watch?v=St4FefEO388
+https://www.youtube.com/watch?v=GJ4SjA8uW18
+https://www.youtube.com/watch?v=UuHp6dZrpSw
+https://www.youtube.com/watch?v=8OHa3MfStCo
+
+>> ROS 
+https://www.youtube.com/watch?v=mWMQCw-ftk8
+https://www.youtube.com/watch?v=8QfI5a7lTKU
+https://www.youtube.com/playlist?list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8
+
+>> SIMULATION Playlist
+https://youtube.com/playlist?list=PLy9nLDKxDN683GqAiJ4IVLquYBod_2oA6
+-----------------------------------------------------------------------------
+mai 18 17:46
+pc conectou na rede wifi gerada pelo tello
+consegui mandar comandos para o drone via linha de comando/script
+
+Problemas: computador necessita de uma placa de rede para se conectar ao wifi. 
+Tello precisa estar no modo de conexao, nao somente ligado
+Tello aceita conexoes de qualquer device conectado a rede
+-----------------------------------------------------------------------------
+mai 18 18:02
+consegui subir o drone gravar um video, utilizando a camera propria do drone juntamente a biblioteca opencv

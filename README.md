@@ -74,7 +74,8 @@ OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a n
 	- [SDK with Rust](https://www.youtube.com/watch?v=j5qqn2eOI2M)  
 	- [Setup Tello Packages](https://youtu.be/-Mb_FKhRn00)  
 	- [Drone Programming with Python](https://youtu.be/LmEcyQnfpDA)  
-	- [Telo && OpenCV](https://youtu.be/vDOkUHNdmKs )  
+	- [Telo && OpenCV](https://youtu.be/vDOkUHNdmKs)  
+	- [Projects Ideas](https://youtu.be/wCPuj_iJHmY)
 
 - Future Ideas
 	- [Arduino - NFC](https://arduinogetstarted.com/tutorials/arduino-rfid-nfc)

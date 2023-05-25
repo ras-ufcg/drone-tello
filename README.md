@@ -1,5 +1,3 @@
-
-
 # Drone-Tello
 
 ### ⛾ Projeto de pesquisa na área de drones
@@ -54,6 +52,10 @@ OBS: As ideias acima são, e serão, passíveis de alteração de acordo com a n
 
 - Modelagem 3D
 	- [Gazebo](https://classic.gazebosim.org/tutorials)
+	- [Thingiverse](https://www.thingiverse.com/)
+
+- Testes
+	- [Aerodynamics Tests](https://www.simscale.com/)
 
 - SDK
 	- [SDK vs API](https://www.ibm.com/cloud/blog/sdk-vs-api)  

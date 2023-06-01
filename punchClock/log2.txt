@@ -1,0 +1,14 @@
+mai 25
+Log atrasado da última experência com o drone
+
+>> Voo
+O drone consegue voar, recebendo comandos tanto de scripts quanto interativamente - dados pelo user, na hora.
+
+>> Reconhecimento de mãos
+O objetivo do dia era conseguir fazer com que o drone reconhecesse gestos feitos com as mão e, à partir disso, se movimentar pelo espaço.
+
+>> BUG
+[Issue #2](https://github.com/ras-ufcg/drone-tello/issues/2)
+
+>> Finalização
+Após muitas tentativas, o drone conseguiu reconhecer gestos, apesar de ainda apresentar falhas. Todavia, ele se movimenta em todas as direções

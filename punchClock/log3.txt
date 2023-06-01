@@ -1,0 +1,24 @@
+Jun 01 14:27
+>>Atualizando o github.
+criando Issues e documentando o trabalho feito  nas utlimas duas semanas 
+------------------------------------------------------------------
+Jun 01 14:56
+Nova tentativa de voo: objetivo de verificar se o software ainda apresenta falhas
+------------------------------------------------------------------
+Jun 01 17:52
+>> Finalizacao dos testes
+Foi descoberto a causa do possivel bug:
+Ao detectar uma mao, o programa atualiza uma variavel chamada "dedos_totais" e verifica seu valor. 
+A partir disso o programa envia um comando especifico ao drone.
+
+O problema está no fato de que, ele envia repetidas vezes num curto intervalo de tempo o comando ao drone, ocasionando um system panic.
+
+Desta forma, é necessário criar um buffer ou utilizar alguma biblioteca assync para verificar se algum comando ja foi executado num 
+certo intervalo de tempo.
+
+Outras solucoes como:
+    utilizar a funcao time.sleep da biblioteca time;
+    criar um contador manualmente para verificar o tempo
+
+sao inviáveis, uma vez que o comando enviado não retorna um sinal de sucesso enquanto o programa está parado,
+causando outro system.panic ou um gasto excessivo de memória
